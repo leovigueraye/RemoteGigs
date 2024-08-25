@@ -6,18 +6,12 @@ An app for listing Remote gigs/jobs.
 
 ## Features
 
-- Built with Laravel 11
+- Built with Laravel 
 - Jetstream (Livewire + blade stack)
-- Create posts
-- Like posts
-- Comment on posts
-- Delete posts
-- Delete Comments
-- On-time image uploads
-- Dynamic and Responsive Design
-- Compile and minify assets (200 kb resources)
-- Many more features....
-
+- Create job posts
+- view job posts
+- edit job posts
+- Delete job posts
 
 ## Installation
 
@@ -59,3 +53,8 @@ php artisan storage:link
 ```
 php artisan serve
 ```
+## Preview
+
+![image](images/Screenshot%20(145).png)
+
+![image](images/Screenshot%20(146).png)
