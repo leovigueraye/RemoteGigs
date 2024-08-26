@@ -1,8 +1,8 @@
-# LaraGigs app
+# RemoteGigs app
 
 ## Introduction
 
-An app for listing Remote gigs/jobs. 
+This is an application for listing Remote gigs/jobs, it can be a valuable system for recruiters and hiring managers aiming to attract and find new talent. this website can be used by employers to advertise their job vacancies to job seekers. job seekers can use job boards to search for new job opportunities in their area and profession.
 
 ## Features
 
